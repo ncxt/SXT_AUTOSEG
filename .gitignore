@@ -1,6 +1,7 @@
 # DATA FILES
 trained_models/
 example_data/
+__tempwd__/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
